@@ -1,0 +1,6 @@
+getnames.py:-
+  Stores the names of all Pokemons in names.txt file which is present in the same directory.
+get_images.py:-
+  Downloads Images of Pokemons from the list of names stored in names.txt and stores them in a foldr named Images in the same directory.
+GUI.py:-
+  Provides user with an option to decide how many files to download. This is the only file meant to be executed.
